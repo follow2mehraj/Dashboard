@@ -18,4 +18,5 @@ This project is a comprehensive and interactive dashboard built with *Microsoft 
 * *Data Source:* Hypothetical dataset collected from GitHub.
 
 ## 🖼 Dashboard Preview
+![image alt](https://github.com/follow2mehraj/Dashboard/blob/3a4d2c19987fced64d094f75dec923f5c7c7fe8d/Screenshot%202025-08-16%20025307.png)
 
